@@ -49,14 +49,19 @@
 ---
 
 ### Stats
-<div class="stats" align="center">
+
+![](https://github.com/Atypics3/shiny-octo-invention/blob/master/generated/overview.svg)
+
+![](https://github.com/Atypics3/shiny-octo-invention/blob/master/generated/languages.svg)
+
+<!-- <div class="stats" align="center">
   <a href="https://github.com/atypics3/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=atypics3&count_private=true&show_icons=true&theme=algolia"/>
   </a>
  
   <a href="https://github.com/atypics3/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atypics3&theme=algolia"/>
- </a>
+ </a> -->
 
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Atypics3&theme=algolia)](https://github.com/atypics3/github-readme-stats)
 </div>

@@ -5,11 +5,11 @@
  
  <div class="badges">
    
-   <a href="https://github.com">
+   <a href="https://discord.gg/abUseJhBqr">
      <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
    </a>
    
-   <a href="https://github.com">
+   <a href="https://github.com/Atypics3/">
      <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
    </a>
    
@@ -17,7 +17,7 @@
      <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge" alt="Portfolio"/>
    </a>
    
-   <a href="https://github.com">
+   <a href="https://chcblog.vercel.app/">
      <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge" alt="Blog"/>
    </a>
  </div>

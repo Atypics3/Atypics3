@@ -5,10 +5,6 @@
  
  <div class="badges">
    
-   <a href="https://discord.gg/abUseJhBqr">
-     <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-   </a>
-   
    <a href="https://github.com/Atypics3/">
      <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
    </a>
@@ -60,7 +56,7 @@
 
 ### Sources
 
-- ![pfp](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/)
-- ![GIFS](https://giphy.com/stickers/coding-webdesign-coder-QssGEmpkyEOhBCb7e1)
+- ![pfp](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
+- [GIF](https://giphy.com/stickers/coding-webdesign-coder-QssGEmpkyEOhBCb7e1)
 - ![Emojis](https://github.com/ikatyang/emoji-cheat-sheet)
-- ![Badges](https://shields.io/)
+- [Badges](https://shields.io)

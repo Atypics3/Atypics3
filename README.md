@@ -36,11 +36,12 @@
 
 ![](https://img.shields.io/badge/Code_Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
 
-![](https://img.shields.io/badge/Language-Vanilla_JS-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=blue)
 
+![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=blue)
+<!-- ![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=blue) -->
 
 ---
 

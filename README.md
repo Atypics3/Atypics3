@@ -26,7 +26,7 @@
 <div class="intro">
  <h3 align="center">About me:</h3>
  <p align="center">:blue_book: I am a CS student that likes to make useful web apps and programs whenever the inspiration hits me. </p>
- <p align="center">:open_book: Currently learning Typescript and fullstack development.</p>
+ <p align="center">:open_book: Currently learning PHP.</p>
  <p align="center">:computer: Trying to venture into the fields of SWE, DS, IT, and anything computer related.</p>
 </div>
 
